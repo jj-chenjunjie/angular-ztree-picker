@@ -1,0 +1,27 @@
+{
+  "name": "angular-ztree-picker",
+  "homepage": "https://github.com/jj-chenjunjie/angular-ztree-picker",
+  "authors": [
+    "Jason <943388837@qq.com>"
+  ],
+  "description": "基于Angular和zTree的选择器",
+  "main": "angular-ztree-picker.js",
+  "keywords": [
+    "angular",
+    "ztree",
+    "picker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "ztree": "^3.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
